@@ -1,7 +1,7 @@
 <?php
 include 'includes/session.php';
 include 'includes/database.php';
-
+//editing to check
 $error = '';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['login'])) {
