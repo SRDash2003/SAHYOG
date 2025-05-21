@@ -1,0 +1,6 @@
+{
+    "name": "soumya/sahyog",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
