@@ -6,8 +6,8 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 
 define('EMAIL_HOST', 'smtp.gmail.com');
-define('EMAIL_USERNAME', 'soumyasanu2003@gmail.com');
-define('EMAIL_PASSWORD', 'jiev rmsx ikbh yavy');
+define('EMAIL_USERNAME', 'yourmail@example.com');
+define('EMAIL_PASSWORD', 'your_app_password');
 define('EMAIL_PORT', 587);
 define('EMAIL_FROM', 'soumyasanu2003@gmail.com');
 define('EMAIL_FROM_NAME', 'SAHYOG');
