@@ -86,25 +86,12 @@ Please refer to this before creating or importing the database.
 5. Jayashree Nayak - SRS Design
 
 ## Future Aspects
-• Integration of a dedicated Blood Donation module to 
-connect willing blood donors with nearby blood banks or 
-patients. 
-• Implementation of a government authentication API for 
-real-time validation of NGO documentation and 
-approval status. 
-• Addition of a “Sort by Location” feature to match donors 
-and receivers within nearby regions for faster logistics. 
-• Automation of document verification through AI/ML to 
-reduce admin workload and improve efficiency. 
-• Introduction of sponsored ads and donation-based 
-voucher systems to motivate users and generate 
-revenue for platform sustainability. 
-• A delivery tracking module for real-time updates on item 
-transit, especially for inter-city donations. 
-• Responsive design for seamless access on all devices 
-including smartphones and tablets. 
-• Fundraising campaigns with secure payment gateway 
-integration (e.g., Razorpay, Paytm, UPI). 
-• Real-time dashboards and analytics for admin and 
-government bodies to monitor activity and ensure 
-compliance. 
+1. Integration of a dedicated Blood Donation module to connect willing blood donors with nearby blood banks or patients.
+2. Implementation of a government authentication API for real-time validation of NGO documentation and approval status.
+3. Addition of a “Sort by Location” feature to match donors and receivers within nearby regions for faster logistics.
+4. Automation of document verification through AI/ML to reduce admin workload and improve efficiency.
+5. Introduction of sponsored ads and donation-based voucher systems to motivate users and generate revenue for platform sustainability.
+6. A delivery tracking module for real-time updates on item transit, especially for inter-city donations.
+7. Responsive design for seamless access on all devices including smartphones and tablets.
+8. Fundraising campaigns with secure payment gateway integration (e.g., Razorpay, Paytm, UPI).
+9. Real-time dashboards and analytics for admin and government bodies to monitor activity and ensure compliance. 
