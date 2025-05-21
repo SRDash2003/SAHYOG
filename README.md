@@ -72,15 +72,39 @@ sahyog/
    
 -----
 
-**📄 Database Schema**
+## 📄 Database Schema
 📌 The full database schema (tables, fields, relationships) is included in sahyogdbschema.pdf.
 Please refer to this before creating or importing the database.
 
 --------
 
-**🤝 Contributors**
+## 🤝 Contributors
 1. Soumya Ranjan Dash – Lead Developer
 2. Jyoti Ranjan Jena – Backend and Database
 3. Biswaranjan Behera – Frontend Design
 4. Sudhrutee Biswal - SRS Design
 5. Jayashree Nayak - SRS Design
+
+## Future Aspects
+• Integration of a dedicated Blood Donation module to 
+connect willing blood donors with nearby blood banks or 
+patients. 
+• Implementation of a government authentication API for 
+real-time validation of NGO documentation and 
+approval status. 
+• Addition of a “Sort by Location” feature to match donors 
+and receivers within nearby regions for faster logistics. 
+• Automation of document verification through AI/ML to 
+reduce admin workload and improve efficiency. 
+• Introduction of sponsored ads and donation-based 
+voucher systems to motivate users and generate 
+revenue for platform sustainability. 
+• A delivery tracking module for real-time updates on item 
+transit, especially for inter-city donations. 
+• Responsive design for seamless access on all devices 
+including smartphones and tablets. 
+• Fundraising campaigns with secure payment gateway 
+integration (e.g., Razorpay, Paytm, UPI). 
+• Real-time dashboards and analytics for admin and 
+government bodies to monitor activity and ensure 
+compliance. 
