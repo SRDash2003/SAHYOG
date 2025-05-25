@@ -23,19 +23,23 @@ This project was developed as a **Final Semester Web Development Project**.
 ---
 
 ## 📁 Folder Structure
-'''├───assets
-├───dashboard
-│   ├───admin
-│   ├───donor
-│   └───receiver
-├───includes
-├───uploads
-└───vendor
-    ├───composer
-    └───phpmailer
-        └───phpmailer
-            ├───language
-            └───src'''
+```
+sahyog/
+├── assets/ # CSS, images
+├── dashboard/
+│ ├── admin/
+│ ├── donor/
+│ └── receiver/
+├── includes/ # Database & session handling
+├── uploads/ # User-uploaded documents/photos
+├── vendor/ #phpmailer, composer, other mailing env
+├── index.php # Landing page
+├── login.php # Login page
+├── logout.php # Logout handler
+├── register.php # Registration form
+├── reset_password.php # OTP-based password reset
+├── sahyog_schema.pdf # 📌 Database Schema
+```
 ---
 
 ## 🧩 Tech Stack
