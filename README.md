@@ -23,8 +23,7 @@ This project was developed as a **Final Semester Web Development Project**.
 ---
 
 ## 📁 Folder Structure
-'''
-├───assets
+'''├───assets
 ├───dashboard
 │   ├───admin
 │   ├───donor
@@ -36,8 +35,7 @@ This project was developed as a **Final Semester Web Development Project**.
     └───phpmailer
         └───phpmailer
             ├───language
-            └───src
-'''
+            └───src'''
 ---
 
 ## 🧩 Tech Stack
